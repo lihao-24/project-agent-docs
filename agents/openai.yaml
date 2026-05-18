@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Agent Docs"
+  short_description: "Bootstrap agent-friendly project documentation"
+  default_prompt: "Use $project-agent-docs to initialize agent-friendly documentation for this repository."
